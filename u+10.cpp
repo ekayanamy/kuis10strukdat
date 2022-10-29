@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//EKAYANA MAGGO YONANDA
 // deklarasi double linked list
 struct DataUser{
   string nama, username, email, password;
